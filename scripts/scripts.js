@@ -16,7 +16,7 @@ $(function () {
     $('span').html(lineH);
     if (lineH > lineHpart * 9) {
       $('#animation').attr('src', '../assets/scroll1.png');
-    }
+    }/*
     if (lineH < lineHpart * 9 && lineH > lineHpart * 8) {
       $('#animation').attr('src', '../assets/scroll2.png');
     }
@@ -43,6 +43,6 @@ $(function () {
     }
     if (lineH < lineHpart) {
       $('#animation').attr('src', '../assets/scroll10.png');
-    }
+    }*/
   });
 });
