@@ -6,5 +6,5 @@
 
 
 # Will do:
-* Custom URL domain registered
+* Custom URL domain register
 * Open to any feedback (if there are any bugs feel free to let me know!)
