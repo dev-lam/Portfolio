@@ -1,10 +1,10 @@
 # dev-lam.github.io
 
 # Main portfolio page
-* Keep simplistic site layout
-* With project updates add to the portfolio
+* Keep simplistic site layout with mobile response
+* Project updates add to the portfolio
 
 
 # Will do:
 * Custom URL domain register
-* Open to any feedback (if there are any bugs feel free to let me know!)
+
